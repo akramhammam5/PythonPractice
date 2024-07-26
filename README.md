@@ -4,7 +4,7 @@ This repository contains a collection of Python exercises designed to help us un
 ## Topics Covered
 
 - **Basic Syntax and Data Types**
-- **Control Structures**
+- **Conditional Logics**
 - **Loops**
 - **Functions** (Working on it)
 - **File Handling**: Practice reading from and writing to files, managing file paths, and working with different file formats. (Working on it)
