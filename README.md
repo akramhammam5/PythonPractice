@@ -6,7 +6,7 @@ This repository contains a collection of Python exercises designed to help us un
 - **Basic Syntax and Data Types**
 - **Conditional Logics**
 - **Loops**
-- **Functions** (Working on it)
+- **Functions** 
 - **File Handling**: Practice reading from and writing to files, managing file paths, and working with different file formats. (Working on it)
 - **Error Handling**: Learn to handle exceptions gracefully using `try`, `except`, `finally`, and `else` blocks. (Working on it)
 - **Object-Oriented Programming (OOP)**: Dive into the principles of OOP, including classes, objects, inheritance, and polymorphism. (Working on it)
